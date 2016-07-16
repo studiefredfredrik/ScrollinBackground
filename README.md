@@ -9,6 +9,9 @@ The game is written in C# using the XNA framework.
 * Space to jump.
 * Arrow up to grind rails.
 
+##Screenshot
+![cAlarm screenshot](https://github.com/studiefredfredrik/ScrollinBackground/blob/master/Arts/gameplay%20shot.png?raw=true)
+
 
 ## Update: 
 * (2016) XNA is now deprecated, and not supported in Visual studio
