@@ -10,7 +10,7 @@ The game is written in C# using the XNA framework.
 * Arrow up to grind rails.
 
 ##Screenshot
-![cAlarm screenshot](https://github.com/studiefredfredrik/ScrollinBackground/blob/master/Arts/gameplay%20shot.png?raw=true)
+![In game screenshot](https://github.com/studiefredfredrik/ScrollinBackground/blob/master/Arts/gameplay%20shot.png?raw=true)
 
 
 ## Update: 
